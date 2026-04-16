@@ -51,7 +51,7 @@
           "index": 423
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/valueWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/valueWrapper.js"
     },
     "augments": [
       {
@@ -121,7 +121,7 @@
                 "index": 421
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/valueWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/valueWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -237,7 +237,7 @@
           "index": 649
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/imageWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/imageWrapper.js"
     },
     "augments": [
       {
@@ -363,7 +363,7 @@
           "index": 645
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/linkWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/linkWrapper.js"
     },
     "augments": [
       {
@@ -489,7 +489,7 @@
           "index": 659
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/listItemWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/listItemWrapper.js"
     },
     "augments": [
       {
@@ -615,7 +615,7 @@
           "index": 2168
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/tableCellWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/tableCellWrapper.js"
     },
     "augments": [
       {
@@ -820,7 +820,7 @@
           "index": 2157
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/dollarWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/dollarWrapper.js"
     },
     "augments": [
       {
@@ -956,7 +956,7 @@
           "index": 8261
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
     },
     "augments": [],
     "examples": [],
@@ -1075,7 +1075,7 @@
                 "index": 1846
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -1284,7 +1284,7 @@
                 "index": 2242
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
           },
           "augments": [],
           "examples": [
@@ -1474,7 +1474,7 @@
                 "index": 3314
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
           },
           "augments": [],
           "examples": [
@@ -1662,7 +1662,7 @@
                 "index": 3679
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -1816,7 +1816,7 @@
                 "index": 5006
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -1998,7 +1998,7 @@
                 "index": 5483
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -2195,7 +2195,7 @@
                 "index": 6046
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -2372,7 +2372,7 @@
                 "index": 6360
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
           },
           "augments": [],
           "examples": [
@@ -2550,7 +2550,7 @@
                 "index": 7413
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
           },
           "augments": [],
           "examples": [
@@ -2773,7 +2773,7 @@
                 "index": 8259
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/elementWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -3231,7 +3231,7 @@
           "index": 1760
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/textWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/textWrapper.js"
     },
     "augments": [
       {
@@ -3353,7 +3353,7 @@
           "index": 2774
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/dropDownWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/dropDownWrapper.js"
     },
     "augments": [
       {
@@ -3472,7 +3472,7 @@
                 "index": 2108
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/dropDownWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/dropDownWrapper.js"
           },
           "augments": [],
           "examples": [
@@ -3645,7 +3645,7 @@
                 "index": 2772
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/dropDownWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/dropDownWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -3835,7 +3835,7 @@
           "index": 2355
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/colorWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/colorWrapper.js"
     },
     "augments": [
       {
@@ -3979,7 +3979,7 @@
                 "index": 2353
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/colorWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/colorWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -4169,7 +4169,7 @@
           "index": 2292
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/fileFieldWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/fileFieldWrapper.js"
     },
     "augments": [
       {
@@ -4313,7 +4313,7 @@
                 "index": 2290
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/fileFieldWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/fileFieldWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -4519,7 +4519,7 @@
           "index": 2479
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/rangeWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/rangeWrapper.js"
     },
     "augments": [
       {
@@ -4619,7 +4619,7 @@
                 "index": 1934
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/rangeWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/rangeWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -4776,7 +4776,7 @@
                 "index": 2477
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/rangeWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/rangeWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -5094,7 +5094,7 @@
           "index": 2981
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/buttonWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/buttonWrapper.js"
     },
     "augments": [
       {
@@ -5216,7 +5216,7 @@
           "index": 3413
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/checkBoxWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/checkBoxWrapper.js"
     },
     "augments": [
       {
@@ -5320,7 +5320,7 @@
                 "index": 2448
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/checkBoxWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/checkBoxWrapper.js"
           },
           "augments": [],
           "examples": [
@@ -5430,7 +5430,7 @@
                 "index": 2647
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/checkBoxWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/checkBoxWrapper.js"
           },
           "augments": [],
           "examples": [
@@ -5518,7 +5518,7 @@
                 "index": 2852
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/checkBoxWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/checkBoxWrapper.js"
           },
           "augments": [],
           "examples": [
@@ -5655,7 +5655,7 @@
                 "index": 3411
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/checkBoxWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/checkBoxWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -5849,7 +5849,7 @@
           "index": 3453
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/radioButtonWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/radioButtonWrapper.js"
     },
     "augments": [
       {
@@ -5953,7 +5953,7 @@
                 "index": 2472
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/radioButtonWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/radioButtonWrapper.js"
           },
           "augments": [],
           "examples": [
@@ -6063,7 +6063,7 @@
                 "index": 2668
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/radioButtonWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/radioButtonWrapper.js"
           },
           "augments": [],
           "examples": [
@@ -6151,7 +6151,7 @@
                 "index": 2869
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/radioButtonWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/radioButtonWrapper.js"
           },
           "augments": [],
           "examples": [
@@ -6288,7 +6288,7 @@
                 "index": 3451
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/radioButtonWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/radioButtonWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -6590,7 +6590,7 @@
           "index": 3616
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/timeFieldWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/timeFieldWrapper.js"
     },
     "augments": [
       {
@@ -6690,7 +6690,7 @@
                 "index": 3034
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/timeFieldWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/timeFieldWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -6849,7 +6849,7 @@
                 "index": 3614
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/timeFieldWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/timeFieldWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -7028,7 +7028,7 @@
           "index": 3696
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/textBoxWrapper.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/textBoxWrapper.js"
     },
     "augments": [
       {
@@ -7172,7 +7172,7 @@
                 "index": 3694
               }
             },
-            "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/elementWrapper/textBoxWrapper.js"
+            "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/elementWrapper/textBoxWrapper.js"
           },
           "augments": [],
           "examples": [],
@@ -7595,7 +7595,7 @@
           "index": 5097
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -8055,7 +8055,7 @@
           "index": 5560
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -8194,7 +8194,7 @@
           "index": 6091
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [],
@@ -8338,7 +8338,7 @@
           "index": 8768
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -8581,7 +8581,7 @@
           "index": 10137
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -8846,7 +8846,7 @@
           "index": 11256
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -9021,7 +9021,7 @@
           "index": 11666
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -9190,7 +9190,7 @@
           "index": 12432
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -9349,7 +9349,7 @@
           "index": 12900
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -9569,7 +9569,7 @@
           "index": 15189
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -9998,7 +9998,7 @@
           "index": 17465
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -10319,7 +10319,7 @@
           "index": 18331
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -10484,7 +10484,7 @@
           "index": 20250
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -10678,7 +10678,7 @@
           "index": 20917
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -10872,7 +10872,7 @@
           "index": 21245
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -11128,7 +11128,7 @@
           "index": 22881
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -11572,7 +11572,7 @@
           "index": 24381
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -11821,7 +11821,7 @@
           "index": 24997
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -11989,7 +11989,7 @@
           "index": 25474
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -12211,7 +12211,7 @@
           "index": 26053
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -12547,7 +12547,7 @@
           "index": 28100
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -12973,7 +12973,7 @@
           "index": 29857
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -13355,7 +13355,7 @@
           "index": 30919
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -13687,7 +13687,7 @@
           "index": 31996
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -14156,7 +14156,7 @@
           "index": 35754
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -14727,7 +14727,7 @@
           "index": 37124
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -15081,7 +15081,7 @@
           "index": 38337
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -15434,7 +15434,7 @@
           "index": 39461
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -15698,7 +15698,7 @@
           "index": 40635
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -15961,7 +15961,7 @@
           "index": 41695
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -16323,7 +16323,7 @@
           "index": 43315
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -16823,7 +16823,7 @@
           "index": 45059
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -17191,7 +17191,7 @@
           "index": 45837
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -17516,7 +17516,7 @@
           "index": 47303
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -17929,7 +17929,7 @@
           "index": 48339
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -18133,7 +18133,7 @@
           "index": 49032
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -18377,7 +18377,7 @@
           "index": 50619
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -18844,7 +18844,7 @@
           "index": 52904
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -19303,7 +19303,7 @@
           "index": 53812
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -19535,7 +19535,7 @@
           "index": 54718
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -19767,7 +19767,7 @@
           "index": 55602
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -19999,7 +19999,7 @@
           "index": 56495
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -20265,7 +20265,7 @@
           "index": 57941
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -20623,7 +20623,7 @@
           "index": 59325
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -20986,7 +20986,7 @@
           "index": 60245
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -21249,7 +21249,7 @@
           "index": 61154
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -21527,7 +21527,7 @@
           "index": 62027
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -21813,7 +21813,7 @@
           "index": 62990
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -22091,7 +22091,7 @@
           "index": 63993
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -22369,7 +22369,7 @@
           "index": 64834
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -22649,7 +22649,7 @@
           "index": 65996
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -22907,7 +22907,7 @@
           "index": 66971
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -23143,7 +23143,7 @@
           "index": 67866
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -23410,7 +23410,7 @@
           "index": 69349
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -23708,7 +23708,7 @@
           "index": 70980
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -23962,7 +23962,7 @@
           "index": 72331
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -24208,7 +24208,7 @@
           "index": 73460
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -24439,7 +24439,7 @@
           "index": 74327
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -24696,7 +24696,7 @@
           "index": 75171
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -24950,7 +24950,7 @@
           "index": 76043
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -25140,7 +25140,7 @@
           "index": 76760
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -25330,7 +25330,7 @@
           "index": 77443
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -25520,7 +25520,7 @@
           "index": 78126
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -25710,7 +25710,7 @@
           "index": 79376
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -25901,7 +25901,7 @@
           "index": 80376
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -26084,7 +26084,7 @@
           "index": 81544
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -26297,7 +26297,7 @@
           "index": 82812
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -26490,7 +26490,7 @@
           "index": 84048
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -26665,7 +26665,7 @@
           "index": 84525
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -26936,7 +26936,7 @@
           "index": 87650
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -27355,7 +27355,7 @@
           "index": 87999
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -27544,7 +27544,7 @@
           "index": 88342
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -27732,7 +27732,7 @@
           "index": 90409
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -27896,7 +27896,7 @@
           "index": 90731
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -28111,7 +28111,7 @@
           "index": 94312
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -28822,7 +28822,7 @@
           "index": 96644
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -29590,7 +29590,7 @@
           "index": 101589
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -29725,7 +29725,7 @@
           "index": 32937
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -29870,7 +29870,7 @@
           "index": 33355
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -30050,7 +30050,7 @@
           "index": 89906
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -30255,7 +30255,7 @@
           "index": 91626
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -30351,7 +30351,7 @@
           "index": 91626
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [],
@@ -30509,7 +30509,7 @@
           "index": 98877
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -30684,7 +30684,7 @@
           "index": 98877
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
@@ -30862,7 +30862,7 @@
           "index": 98877
         }
       },
-      "file": "/Users/zabilcm/projects/taiko/packages/taiko/lib/taiko.js"
+      "file": "/Users/user/Разработка/other/taiko/packages/taiko/lib/taiko.js"
     },
     "augments": [],
     "examples": [
