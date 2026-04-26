@@ -152,8 +152,9 @@ const handleInterceptor = (p) => {
           // to wait forever for responsePromise. Emit it explicitly as a fallback.
           if (p.resourceType === "Document") {
             logIntercept(
-              "emitting synthetic responseReceived for url=%s",
+              "emitting synthetic responseReceived for url=%s frameId=%s",
               p.request.url,
+              p.frameId,
             );
             eventHandler.emit("responseReceived", {
               requestId: p.networkId,
@@ -162,6 +163,11 @@ const handleInterceptor = (p) => {
                 status: options.responseCode,
                 statusText: options.responsePhrase || "",
               },
+            });
+            // Resolve pending frame promises — on Windows, frameStoppedLoading
+            // may not fire after fulfillRequest, blocking waitForNavigation.
+            eventHandler.emit("navigationFulfilledByIntercept", {
+              frameId: p.frameId,
             });
           }
         })
