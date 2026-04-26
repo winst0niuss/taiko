@@ -144,7 +144,28 @@ const handleInterceptor = (p) => {
         options.responseCode,
         options.body ? options.body.length : 0,
       );
-      fetch.fulfillRequest(options).catch(() => warnInterceptFailed(p));
+      fetch
+        .fulfillRequest(options)
+        .then(() => {
+          // On Windows, Chrome sometimes skips Network.responseReceived after
+          // Fetch.fulfillRequest for Document navigations, causing handleNavigation
+          // to wait forever for responsePromise. Emit it explicitly as a fallback.
+          if (p.resourceType === "Document") {
+            logIntercept(
+              "emitting synthetic responseReceived for url=%s",
+              p.request.url,
+            );
+            eventHandler.emit("responseReceived", {
+              requestId: p.networkId,
+              response: {
+                url: p.request.url,
+                status: options.responseCode,
+                statusText: options.responsePhrase || "",
+              },
+            });
+          }
+        })
+        .catch(() => warnInterceptFailed(p));
       break;
     //Continue default request if none of the above matches
     default:

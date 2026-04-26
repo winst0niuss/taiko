@@ -198,6 +198,14 @@ const handleNavigation = async (gotoUrl) => {
   const handleResponseStatus = (response) => {
     if (requestId === response.requestId) {
       resolveResponse(response.response);
+    } else if (
+      !requestId &&
+      response.response &&
+      isSameUrl(response.response.url, urlToNavigate)
+    ) {
+      // Fallback: match by URL when requestId not yet set due to race between
+      // requestStarted and responseReceived events (observed on Windows).
+      resolveResponse(response.response);
     }
   };
   const responsePromise = new Promise((resolve) => {
